@@ -1,4 +1,4 @@
-![Interactive Quiz App Banner](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/2e7f54db28df2aa6d795eae59a7a5527a8212ce1/Bannerv)
+![Interactive Quiz App Banner](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/2e7f54db28df2aa6d795eae59a7a5527a8212ce1/Banner)
 
 # 🎉 Interactive Quiz Application
 
@@ -29,7 +29,7 @@
 
 ## 🎨 Screenshot Preview
 
-![Quiz Question View](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/0763585de4ac86943a941bc338848085a97d7e35/Quiz%20imgv)  
+![Quiz Question View](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/0763585de4ac86943a941bc338848085a97d7e35/Quiz%20img)  
 *Example question interface with clear answer options.*
 
 ---
