@@ -1,4 +1,4 @@
-![Interactive Quiz App Banner](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/2e7f54db28df2aa6d795eae59a7a5527a8212ce1/Banner)
+![Interactive Quiz App Banner](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/6fc2e9c12eabf8575a9dcec79473a1484b2bf79f/Banner)
 
 # 🎉 Interactive Quiz Application
 
