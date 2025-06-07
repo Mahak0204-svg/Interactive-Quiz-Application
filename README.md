@@ -29,7 +29,7 @@
 
 ## 🎨 Screenshot Preview
 
-![Quiz Question View](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/main/images/quiz-question.jpeg)  
+![Quiz Question View](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/0763585de4ac86943a941bc338848085a97d7e35/Quiz%20imgv)  
 *Example question interface with clear answer options.*
 
 ---
