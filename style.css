@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right,#4d2b04, #b98345, #442603);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+
+.container {
+  background: #fff;
+  width: 90%;
+  max-width: 500px;
+  padding: 30px 25px;
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+  text-align: center;
+  animation: fadeIn 0.5s ease-in;
+}
+
+.hidden {
+  display: none;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+button {
+  background: #188d35;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+button:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  background: #4b3102;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+  margin-top: 20px;
+}
+
+li {
+  background: #f1f1f1;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+li:hover {
+  background: #e0e0e0;
+}
+
+li.correct {
+  background: #c8e6c9;
+}
+
+li.wrong {
+  background: #ffcdd2;
+}
+
+#feedback {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #444;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
