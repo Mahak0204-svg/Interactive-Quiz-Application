@@ -32,9 +32,6 @@
 ![Quiz Question View](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/main/images/quiz-question.jpeg)  
 *Example question interface with clear answer options.*
 
-![Feedback Screen](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/main/images/quiz-feedback.jpeg)  
-*Instant feedback on your answers keeps you motivated!*
-
 ---
 
 ## 🛠️ Built With
@@ -48,4 +45,30 @@
 ---
 
 ## 📂 Project Structure
+Interactive-Quiz-Application/
+
+├── index.html # Main HTML file
+
+├── style.css # Styling with CSS
+
+├── script.js # Quiz logic with JavaScript
+
+├── images/ # Screenshots and demo assets
+
+└── README.md # Project overview and documentation
+
+---
+
+## 🌟 Future Roadmap
+⏱️ Add countdown timer per question for extra challenge
+
+🏆 Implement leaderboard & high scores
+
+📚 Load questions dynamically from JSON or external API
+
+🎭 Add themes: dark mode & colorful themes
+
+🧑‍🤝‍🧑 Add multiplayer or challenge mode for friends
+
+
 
