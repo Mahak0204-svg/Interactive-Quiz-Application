@@ -1,5 +1,3 @@
-![Interactive Quiz Application](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/blob/6fc2e9c12eabf8575a9dcec79473a1484b2bf79f/Banner)
-
 # 🎉 Interactive Quiz Application
 
 [![GitHub stars](https://img.shields.io/github/stars/Mahak0204-svg/Interactive-Quiz-Application?style=social)](https://github.com/Mahak0204-svg/Interactive-Quiz-Application/stargazers)  
